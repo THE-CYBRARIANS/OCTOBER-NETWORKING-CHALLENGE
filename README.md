@@ -34,8 +34,10 @@ The starter file contains:
 
 The topology should be:
 
-PC0 ─── Switch0 ─── Router0 ─── Router1 ─── Switch1 ─── PC1 --- PC2
-                                                        
+PC0 ─── Switch0 ─── Router0 ─── Router1 ─── Switch1 ─── PC1 
+                                                  │
+                                                   └──  PC2
+                                                         
                                                       
 
 ⸻
