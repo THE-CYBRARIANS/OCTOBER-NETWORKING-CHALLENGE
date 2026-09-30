@@ -34,7 +34,7 @@ The starter file contains:
 
 The topology should be:
                                                       
-PC0 ─── Switch0 ─── Router0 ─── Router1 ─── Switch1  ─── (CONNECT BOTH PC1 AND PC2 TO SWITCH 1)
+PC0 ─── Switch0 ─── Router0 ─── Router1 ─── Switch1  ─── ( PC1 AND PC2 SHOULD BE CONNECTED SWITCH 1)
                                                        
                                                     
                                                       
